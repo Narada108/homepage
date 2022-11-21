@@ -5,4 +5,4 @@ przycisk.addEventListener("click", () => {
     naglowek.classList.toggle("blue")
 })
 
-console.log("To jest moja ósma strona internetowa")
+console.log("To jest moja druga strona internetowa")
