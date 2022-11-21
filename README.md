@@ -1,23 +1,11 @@
-# Nagłówek 1
-## Nagłówek 2
+# Narada Muni
+Moja kolejna strona internetowa
 
+## Demo:
+https://narada108.github.io/homepage/
 
-Haribol Nitai Gor
-###### Gopal
-# **govinda**
-# *rama*
+## Photo:
 
-1. Element 1
-1. Element 2
-1. Element 3
+![smok wawelski](images/smok.jpeg)
 
-- gopala
-- govinda
-- rama
-- madana mohana
-
-[medytacja](https://www.mantra.pl)
-
-https://www.mantra.pl
-
-![smok] (images/smok.jpeg)
+https://github.com/Narada108/homepage/blob/main/images/smok.jpeg?raw=true
