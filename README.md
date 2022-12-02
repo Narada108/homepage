@@ -6,6 +6,6 @@ https://narada108.github.io/homepage/
 
 ## Photo:
 
-![smok wawelski](images/smok.jpeg)
+![soccer](images/soccer players.jpeg)
 
 https://github.com/Narada108/homepage/blob/main/images/smok.jpeg?raw=true
