@@ -1,11 +1,11 @@
-# Piłkarze świata
+# World footballers
 
-## Opis
-Moja kolejna strona internetowa. 
+## Description
+My next website.
 
-Opisałem tu najlepszych piłkarzy świata w ostatnich 40 latach.
+I described here the best players in the world in the last 40 years.
 
-## Strona internetowa
+## Website
 https://narada108.github.io/homepage/
 
 ![soccer](images/soccer%20players.jpg)
